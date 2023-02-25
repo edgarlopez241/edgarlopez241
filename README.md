@@ -9,20 +9,25 @@
 - 🌱 I’m currently learning Node
 - 🤔 I’m looking for help with found a job
 - 💬 Ask me about language, culture,tech
-- 📫 How to reach me: 
-- 😄 Pronouns: he/his
+ 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people and learn different topics</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-### :closed_book: Course Done Clicks Below to See it
-<code> [<img width="20%" src="https://www.vectorlogo.zone/logos/google_drive/google_drive-ar21.svg">] ("https://www.linkedin.com/in/edgarlopez241/")</code>
+ ## Connect with me:
+<img align="left" alt="edgarlopez241 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
-#### 🛠️ Programming languages and tools: 
+
+<br/>
+
+
+### 🛠️ Programming languages and tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
@@ -30,6 +35,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 
 #### :computer: Backend: 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
