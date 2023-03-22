@@ -6,7 +6,7 @@
   <br> I like build software with High Quality </br>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning Solidity with Platzi
 - 🤔 I’m looking for help with found a job
 - 💬 Ask me about language, culture,tech
  
