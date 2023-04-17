@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   <br> I like build software with High Quality </br>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Solidity with Platzi
 - 🤔 I’m looking for help with found a job
 - 💬 Ask me about language, culture,tech
